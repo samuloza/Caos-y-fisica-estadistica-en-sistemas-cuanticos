@@ -1,1 +1,1 @@
-# Caos-y-fisica-estadistica-en-sistemas-cuanticos
+# Caos y física estadçistica en sistemas cuánticos
