@@ -45,7 +45,7 @@ def execute_statistics(S, n, mu_min, mu_max, step_mu, landa_min, landa_max, step
 
 def main():
     current_directory = os.getcwd()
-    output_folder = os.path.join(current_directory, "Resultados")
+    output_folder = os.path.join(current_directory, "Results")
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     os.chdir(output_folder)
